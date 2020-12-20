@@ -1,0 +1,13 @@
+# =============================================================================
+# INSTRUCTIONS AND INFORMATION
+# =============================================================================
+
+* You will find 4 files: 
+    a. REPORT (data_stream_report.pdf)
+    b. CODE (streams1.py)
+    c. 2 csv files(tags_counter, user-counter)
+    
+    
+* Various libraries are used. Please make sure you have pip installed any missing library
+         
+* In the 26th line of the code you will have to change the path and use your own. 
